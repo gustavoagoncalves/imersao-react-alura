@@ -1,0 +1,135 @@
+{
+    "name": "Gustavo de Assis G. Reis",
+    "job": "Front-End Developer",
+    "bg": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+    "github": "gustavoagoncalves",
+    "playlists": {
+      "Jogos": [
+          {
+            "title": "7 Mind Blowing GTA Moments we Never Forgot",
+            "url": "https://www.youtube.com/watch?v=7ROM3F_qsGQ&list=LL&index=53",
+            "thumb": "https://i3.ytimg.com/vi/7ROM3F_qsGQ/hqdefault.jpg"
+          },
+          {
+            "title": "10 Legendary Missions in Video Games we Never Forgot",
+            "url": "https://www.youtube.com/watch?v=S2WHd7DtSd4&list=LL&index=16",
+            "thumb": "https://i3.ytimg.com/vi/S2WHd7DtSd4/hqdefault.jpg"
+          },
+          {
+            "title": "7 Cenas Mais Traumatizantes dos Games",
+            "url": "https://www.youtube.com/watch?v=DoCoXQ9ysMg&list=LL&index=205",
+            "thumb": "https://i3.ytimg.com/vi/DoCoXQ9ysMg/hqdefault.jpg"
+          },
+          {
+            "title": "Em Busca do Mute Perfeito - CS:GO",
+            "url": "https://www.youtube.com/watch?v=AZ_4wuSH7ic",
+            "thumb": "https://i3.ytimg.com/vi/AZ_4wuSH7ic/hqdefault.jpg"
+          },
+          {
+            "title": "10 Melhores Jogos Exclusivos do PS4",
+            "url": "https://www.youtube.com/watch?v=jts67XzUs8Q&list=LL&index=412",
+            "thumb": "https://i3.ytimg.com/vi/jts67XzUs8Q/hqdefault.jpg"
+          },
+          {
+            "title": "Top 10 Playstation Games of All Times",
+            "url": "https://www.youtube.com/watch?v=naYnKcQHlZI&list=LL&index=891",
+            "thumb": "https://i3.ytimg.com/vi/naYnKcQHlZI/hqdefault.jpg"
+          },
+          {
+            "title": "Top 5 BEST Quests We Loved in The Elder Scrolls 5: Skyrim",
+            "url": "https://www.youtube.com/watch?v=IoZ0BUtd1DA&list=LL&index=37",
+            "thumb": "https://i3.ytimg.com/vi/IoZ0BUtd1DA/hqdefault.jpg"
+          },
+          {
+            "title": "Nostalgia Terrorista - Battlefield 3",
+            "url": "https://www.youtube.com/watch?v=wlpw0TGrN5A",
+            "thumb": "https://i3.ytimg.com/vi/wlpw0TGrN5A/hqdefault.jpg"
+          }
+        ],
+      "Música": [
+        {
+          "title": "10 Iconic Metal Solos",
+          "url": "https://www.youtube.com/watch?v=QsqFbE7w_Ok&list=LL&index=502",
+          "thumb": "https://i3.ytimg.com/vi/QsqFbE7w_Ok/hqdefault.jpg"
+        },
+        {
+          "title": "AnoHana encerramento - Secret Base FULL (em português BR)",
+          "url": "https://www.youtube.com/watch?v=6qiwPebkSBs&list=LL&index=971",
+          "thumb": "https://i3.ytimg.com/vi/6qiwPebkSBs/hqdefault.jpg"
+        },
+        {
+          "title": "Angra - Heroes of Sand feat. Sandy",
+          "url": "https://www.youtube.com/watch?v=fN5hw-pe9jU&list=LL&index=307",
+          "thumb": "https://i3.ytimg.com/vi/fN5hw-pe9jU/hqdefault.jpg"
+        },
+        {
+          "title": "Top 20 Greatest Male Guitarrists of All Time",
+          "url": "https://www.youtube.com/watch?v=TFm0FDrzFY8&list=LL&index=308",
+          "thumb": "https://i3.ytimg.com/vi/TFm0FDrzFY8/hqdefault.jpg"
+        },
+        {
+          "title": "Iron Maiden Rock in Rio 2001 full concert",
+          "url": "https://www.youtube.com/watch?v=BXPxPV-CSBk&list=LL&index=198",
+          "thumb": "https://i3.ytimg.com/vi/BXPxPV-CSBk/hqdefault.jpg"
+        },
+        {
+          "title": "Patolino O Mago",
+          "url": "https://www.youtube.com/watch?v=Q_W8lXjA2og&list=LL&index=1034",
+          "thumb": "https://i3.ytimg.com/vi/Q_W8lXjA2og/hqdefault.jpg"
+        },
+        {
+          "title": "Metallica - One",
+          "url": "https://www.youtube.com/watch?v=WM8bTdBs-cw",
+          "thumb": "https://i3.ytimg.com/vi/WM8bTdBs-cw/hqdefault.jpg"
+        },
+        {
+          "title": "Red Hot Chili Peppers - Otherside",
+          "url": "https://www.youtube.com/watch?v=rn_YodiJO6k",
+          "thumb": "https://i3.ytimg.com/vi/rn_YodiJO6k/hqdefault.jpg"
+        },
+        {
+          "title": "Foo Fighters - Everlong",
+          "url": "https://www.youtube.com/watch?v=eBG7P-K-r1Y",
+          "thumb": "https://i3.ytimg.com/vi/eBG7P-K-r1Y/hqdefault.jpg"
+        }
+      ],
+      "Curiosidades": [
+        {
+          "title": "Jack Estripador e a Londres vitoriana | Nerdologia Criminosos",
+          "url": "https://www.youtube.com/watch?v=G2KVqOJrdic&list=LL&index=555&t=466s",
+          "thumb": "https://i3.ytimg.com/vi/G2KVqOJrdic/hqdefault.jpg"
+        },
+        {
+          "title": "Top 10 Saddest Doctor Who Moments",
+          "url": "https://www.youtube.com/watch?v=zbr1OWfNyek&list=LL&index=684",
+          "thumb": "https://i3.ytimg.com/vi/zbr1OWfNyek/hqdefault.jpg"
+        },
+        
+        {
+          "title": "OS 5 MISTÉRIOS MAIS ASSUSTADORES DOS ANOS 90!",
+          "url": "https://www.youtube.com/watch?v=Kjbw1-hlmPw&list=LL&index=801",
+          "thumb": "https://i3.ytimg.com/vi/Kjbw1-hlmPw/hqdefault.jpg"
+        },
+        {
+          "title": "D. B. Cooper, um dos Maiores Mistérios da História do FBI",
+          "url": "https://www.youtube.com/watch?v=1-zz5ff9SzM&list=LL&index=69",
+          "thumb": "https://i3.ytimg.com/vi/1-zz5ff9SzM/hqdefault.jpg"
+        },
+        {
+          "title": "Doutor Estranho no Multiverso do Caos",
+          "url": "https://www.youtube.com/watch?v=NR0pS6jVd58&list=LL&index=91",
+          "thumb": "https://i3.ytimg.com/vi/NR0pS6jVd58/hqdefault.jpg"
+        },
+        {
+          "title": "Os Misteriosos Assassinatos de Hinterkaifeck | Nerdologia Criminosos",
+          "url": "https://www.youtube.com/watch?v=NWSb2n24Oy8&list=LL&index=193",
+          "thumb": "https://i3.ytimg.com/vi/NWSb2n24Oy8/hqdefault.jpg"
+        },
+        {
+          "title": "QUE P0RR% É ESSA?? 20 Frases ABSURDAS de PICA-PAU! ",
+          "url": "https://www.youtube.com/watch?v=u-S8UMibw1c",
+          "thumb": "https://i3.ytimg.com/vi/u-S8UMibw1c/hqdefault.jpg"
+        }
+      ]
+    }
+  }
